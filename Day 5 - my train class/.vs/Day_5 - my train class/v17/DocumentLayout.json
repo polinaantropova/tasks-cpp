@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\polin\\repos_cpp\\tasks-cpp\\Day 5 - my train class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF02740C-8724-41C1-8C4D-4DACBF4851C0}|Day_5 - my train class.vcxproj|C:\\Users\\polin\\repos_cpp\\tasks-cpp\\Day 5 - my train class\\Day 5 - my train class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF02740C-8724-41C1-8C4D-4DACBF4851C0}|Day_5 - my train class.vcxproj|solutionrelative:Day 5 - my train class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Day 5 - my train class.cpp",
+              "DocumentMoniker": "C:\\Users\\polin\\repos_cpp\\tasks-cpp\\Day 5 - my train class\\Day 5 - my train class.cpp",
+              "RelativeDocumentMoniker": "Day 5 - my train class.cpp",
+              "ToolTip": "C:\\Users\\polin\\repos_cpp\\tasks-cpp\\Day 5 - my train class\\Day 5 - my train class.cpp",
+              "RelativeToolTip": "Day 5 - my train class.cpp",
+              "ViewState": "AQIAADIAAAAAAAAAAADwvzkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-29T14:03:44.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
