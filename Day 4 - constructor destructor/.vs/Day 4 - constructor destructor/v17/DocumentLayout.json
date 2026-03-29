@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\polin\\source\\repos\\Day 4 - constructor destructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89F70844-CE86-419E-B5FA-B492CAD3372D}|Day 4 - constructor destructor.vcxproj|C:\\Users\\polin\\source\\repos\\Day 4 - constructor destructor\\Day 4 - constructor destructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89F70844-CE86-419E-B5FA-B492CAD3372D}|Day 4 - constructor destructor.vcxproj|solutionrelative:Day 4 - constructor destructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Day 4 - constructor destructor.cpp",
+              "DocumentMoniker": "C:\\Users\\polin\\source\\repos\\Day 4 - constructor destructor\\Day 4 - constructor destructor.cpp",
+              "RelativeDocumentMoniker": "Day 4 - constructor destructor.cpp",
+              "ToolTip": "C:\\Users\\polin\\source\\repos\\Day 4 - constructor destructor\\Day 4 - constructor destructor.cpp",
+              "RelativeToolTip": "Day 4 - constructor destructor.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T17:47:31.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
