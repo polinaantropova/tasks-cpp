@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\polin\\source\\repos\\Day 2 - nullptr ptrptr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01A4D476-BEDF-4B8E-826A-8F868FDF5155}|Day 2 - nullptr ptrptr.vcxproj|C:\\Users\\polin\\source\\repos\\Day 2 - nullptr ptrptr\\Day 2 - nullptr ptrptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01A4D476-BEDF-4B8E-826A-8F868FDF5155}|Day 2 - nullptr ptrptr.vcxproj|solutionrelative:Day 2 - nullptr ptrptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Day 2 - nullptr ptrptr.cpp",
+              "DocumentMoniker": "C:\\Users\\polin\\source\\repos\\Day 2 - nullptr ptrptr\\Day 2 - nullptr ptrptr.cpp",
+              "RelativeDocumentMoniker": "Day 2 - nullptr ptrptr.cpp",
+              "ToolTip": "C:\\Users\\polin\\source\\repos\\Day 2 - nullptr ptrptr\\Day 2 - nullptr ptrptr.cpp",
+              "RelativeToolTip": "Day 2 - nullptr ptrptr.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvxwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-24T19:31:29.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
